@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper1 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffcdd2;
+}
+
+.wrapper2 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e1bee7;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: #b71c1c;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: #4a148c;
+}
