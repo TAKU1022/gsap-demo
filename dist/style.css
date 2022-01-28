@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.wrapper1 {
+.box-wrapper1 {
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -11,7 +11,7 @@
   background-color: #ffcdd2;
 }
 
-.wrapper2 {
+.box-wrapper2 {
   height: 100vh;
   display: flex;
   justify-content: center;
